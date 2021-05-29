@@ -1,0 +1,2 @@
+# tricoin
+Kriptovaluta
